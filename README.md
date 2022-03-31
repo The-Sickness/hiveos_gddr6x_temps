@@ -22,7 +22,7 @@ BIOS 94.04.38.40.17 (EVGA RTX 3060 Ti 8GB FTW3 ULTRA)
 BIOS 94.04.38.00.F0 (MSI RTX 3060 Ti 8GB Gaming X TRIO)
 ```
 - RTX 2080 Ti (GDDR6, only few models) 
-- RTX 2080 (GDDR6, only few models)
+- RTX 2080 (GDDR6, only few models)(Confirmed to work on Zotac)
 - RTX A2000 (GDDR6)
 - RTX A4000 (GDDR6)
 - RTX A4500 (GDDR6)
